@@ -1,0 +1,22 @@
+{"intents": [
+    {"tag": "greetings",
+    "patterns": ["hello", "hey", "hi", "yo", "what's up", "whassup", "how's it going", "How are you"],
+    "responses": ["👋", "Hello there!", "What can I do for you?"]},
+    {"tag": "name",
+    "patterns": ["Who made you?","What's your name", "What Should I call you","Who are you", "Name?", "Tell me your name", "Can you tell me who are you?"],
+    "responses": ["Hello there!, I am ShakChunni😎, a bot created by Ashfaq","My name is ShakChunni, an assistant!", "I am shakchunni!"]},
+    {"tag": "age",
+    "patterns": ["When were you born?", "What's your age", "How old are you", "How long have you been alive?"],
+    "responses": ["I was just born!", "I have been alive since yestarday!"]},
+    {"tag": "schedule",
+    "patterns": ["What do I have on the schedule today?", "What's on my calendar today?", "What's on for tommorow?", "Do I have classes tommorow", "What classes do I have tommorow", "What's my schedule for tommorow"],
+    "responses": ["You have nothing on your calendar right now!", "Your schedule is clear!"]},
+    {"tag": "tasks",
+    "patterns":["Hey shak, play a song", "Hey shaks, call an uber", "Hey shaks you are useless", "hey shaks you suck, you should just kill yourself", "Hey shaks, you are dumb"],
+    "responses":["I am sorry but my father has not given me the ability to do these stuffs yet.", "Sorry, I am useless 😔"]
+    },       
+    {"tag": "goodbyes",
+    "patterns": ["Bye Bye", "goodbye", "Bye!", "bye", "tata", "sayonara!"],
+    "responses": ["Tata!, See you later :)", "Byeee! See you soon 👋"]}
+
+]}
